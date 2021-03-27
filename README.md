@@ -6,7 +6,7 @@
  Create a new database, Give it a database name, Username and password
  Create a table in your database i.e posts and create 3 fields: id, post_title, post_description 
  Add php file in the php  file manager(config.php), Do write proper code in this file for connection with database i.e db_name, db_user,      db_password and db_host
- <strong>code:M/strong>
+ <strong>code:</strong>
 
 <? php
 $db_name=""; 
